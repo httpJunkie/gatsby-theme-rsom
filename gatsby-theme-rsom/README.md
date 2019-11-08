@@ -1,5 +1,7 @@
 # The smallest possible Gatsby theme
 
+This theme is a work in progress and this readme will be updated with better instructions on how to use this theme soon.
+
 ## Quick Start
 
 ```shell

@@ -1,8 +1,9 @@
 {
   "name": "@httpjunkie/gatsby-theme-rsom",
-  "version": "1.0.0",
+  "author": "Eric S. Bishard <e.bishard@gmail.com>",
+  "repository": "https://github.com/httpJunkie/gatsby-theme-rsom",
+  "version": "0.1.0",
   "main": "index.js",
-  "author": "Eric S. Bishard",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
