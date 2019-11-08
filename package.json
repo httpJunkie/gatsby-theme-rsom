@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-rsom-workspace",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn workspace rsom build"
+  },
+  "workspaces": [
+    "gatsby-theme-rsom",
+    "rsom"
+  ]
+}

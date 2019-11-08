@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-theme-rsom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric S. Bishard",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.17.10",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "gatsby": "^2.17.10",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "@mdx-js/react": "^1.5.1",
+    "gatsby-plugin-theme-ui": "^0.2.43",
+    "gatsby-source-filesystem": "^2.1.35",
+    "gatsby-theme-ui": "^0.2.0",
+    "gatsby-transformer-yaml": "^2.2.15",
+    "theme-ui": "^0.2.46"
+  }
+}
